@@ -1,4 +1,4 @@
-package com;
+package ArrayAndString;
 
 /**
  * Assume you have a method isSubstring which checks if one word is a 

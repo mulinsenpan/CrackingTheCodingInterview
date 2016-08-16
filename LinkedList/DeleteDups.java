@@ -46,7 +46,7 @@ How would you solve this problem if a temporary buffer is not allowed?
 		}
 	}
 	
-//	当不适用table时，如何判断是否有重复的节点？
+//	当不使用table时，如何判断是否有重复的节点？
 	/**
 	 * 双指针策略：一个代表当前指针、一个表示从head到当前指针
 	 * @param args
@@ -95,9 +95,6 @@ How would you solve this problem if a temporary buffer is not allowed?
 			System.out.println(head.data);
 			head = head.next;
 		}
-		
-		
-
 	}
 
 }

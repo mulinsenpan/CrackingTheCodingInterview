@@ -1,4 +1,4 @@
-package com;
+package ArrayAndString;
 
 /**
  * C-Style string :C-String means that ¡°abcd¡± is represented as

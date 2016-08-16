@@ -1,4 +1,4 @@
-package com;
+package ArrayAndString;
 
 /**
  * Write a method to replace all spaces in a string with бо%20

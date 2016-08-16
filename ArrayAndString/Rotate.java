@@ -1,4 +1,4 @@
-package com;
+package ArrayAndString;
 
 /**
  * Given an image represented by an NxN matrix, 
