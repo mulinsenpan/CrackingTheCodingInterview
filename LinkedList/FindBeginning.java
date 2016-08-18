@@ -88,7 +88,7 @@ public class FindBeginning {
 		five.next = six;
 		six.next = seven;
 		
-		LinkedListNode begin = findBeginning2(two);
+		LinkedListNode begin = findBeginning(two);
 		System.out.println(begin.data);
 
 	}
